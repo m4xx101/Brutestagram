@@ -16,7 +16,7 @@ python install.py
 
 ### Help
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py -h
+root@m4xx:~#python instagram.py -h
 usage: instagram.py [-h] [-m MODE] username wordlist
 
 positional arguments:
@@ -48,25 +48,25 @@ python instagram.py <username> <wordlist> -m <mode>
 ### Chill mode
 This mode uses only 2 bots, or 32 passwords at a time.
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py Sami09.1 pass.lst -m 3
+root@m4xx:~#python instagram.py Sami09.1 pass.lst -m 3
 ```
 
 ### Moderate mode 1
 This mode uses 4 bots, or 64 passwords at a time.
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py Sami09.1 pass.lst -m 2
+root@m4xx:~#python instagram.py Sami09.1 pass.lst -m 2
 ```
 
 ### Moderate mode 2
 This mode uses 8 bots, or 128 passwords at a time.
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py Sami09.1 pass.lst -m 1
+root@m4xx:~#python instagram.py Sami09.1 pass.lst -m 1
 ```
 
 ### Savage mode
 This mode uses 16 bots, or 256 passwords at a time.
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py Sami09.1 pass.lst -m 0
+root@m4xx:~#python instagram.py Sami09.1 pass.lst -m 0
 ```
 
 ### If you don't specify a mode, then mode is set to 2
