@@ -1,4 +1,4 @@
-# Instagram Bruter
+# Brutestagram
 
 <br>
 
